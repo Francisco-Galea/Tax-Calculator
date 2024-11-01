@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\bin\Debug\net8.0\ConsoleApp Tax calculator.exe
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\bin\Debug\net8.0\ConsoleApp Tax calculator.deps.json
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\bin\Debug\net8.0\ConsoleApp Tax calculator.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\bin\Debug\net8.0\ConsoleApp Tax calculator.dll
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\bin\Debug\net8.0\ConsoleApp Tax calculator.pdb
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.dll
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\refint\ConsoleApp Tax calculator.dll
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.pdb
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ConsoleApp Tax calculator.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\Programacion\ConsoleApp Tax calculator\ConsoleApp Tax calculator\obj\Debug\net8.0\ref\ConsoleApp Tax calculator.dll
